@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  category: one
+  warranty_information: MyString
+  shipping_information: MyString
+  availability_status: MyString
+  return_policy: MyString
+  min_order_quantity: 1
+  barcode: MyString
+  qrcode: MyString
+  rating: 1.5
+  stock: 1
+
+two:
+  title: MyString
+  description: MyText
+  category: two
+  warranty_information: MyString
+  shipping_information: MyString
+  availability_status: MyString
+  return_policy: MyString
+  min_order_quantity: 1
+  barcode: MyString
+  qrcode: MyString
+  rating: 1.5
+  stock: 1
